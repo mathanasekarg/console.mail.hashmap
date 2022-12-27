@@ -1,0 +1,2 @@
+# console.mail.hashmap
+*Model
